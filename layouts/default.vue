@@ -6,7 +6,7 @@
     <v-main>
       <nuxt />
     </v-main>
-    <v-footer :absolute="!fixed" app>
+    <v-footer absolute fixed app>
       <span>&copy; {{ new Date().getFullYear() }} Yuta Tsumori</span>
     </v-footer>
   </v-app>
