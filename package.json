@@ -9,6 +9,8 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@firebase/webchannel-wrapper": "^0.3.0",
+    "firebase": "^7.20.0",
     "nuxt": "^2.14.0"
   },
   "devDependencies": {
